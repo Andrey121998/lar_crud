@@ -10,7 +10,9 @@
         "illuminate/database": "*",
         "laravel/framework": "^12.0",
         "laravel/sanctum": "^4.0",
-        "laravel/tinker": "^2.10.1"
+        "laravel/tinker": "^2.10.1",
+        "nuwave/lighthouse": "^6.64",
+        "rebing/graphql-laravel": "^9.14"
     },
     "require-dev": {
         "fakerphp/faker": "^1.23",
